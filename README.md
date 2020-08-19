@@ -2,7 +2,7 @@
 
 This is a database warehouse design project where data from disparate sources is stored with RDBMS rules for optimum retrival efficiency.
 
-Tools: SQL server, SSIS Packages, OLAP cube, Tableau, Python, ER studio
+Tools: **SQL server, SSIS Packages, OLAP cube, Tableau, Python, ER studio**
 
 Objective: 
 
