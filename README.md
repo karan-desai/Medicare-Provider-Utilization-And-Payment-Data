@@ -26,7 +26,7 @@ Steps Involved in Project:
 
 8. Create a dashboard using tableau to get out insignts from the data. 
 
-( For project, follow project presentation slides for output.)
+( Follow project presentation slides for output.)
 
 
 
